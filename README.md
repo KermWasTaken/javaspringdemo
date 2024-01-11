@@ -44,11 +44,11 @@
 
 ## About The Project
 
-[![Web app screenshot][site-screenshot]]
+![Web app screenshot][site-screenshot]
 
 A Java Spring Framework web app demo project. 
 
-From this project, I gained experience working with the embedded Apache Tomcat servlet. Additionally, I learned how to integrate a PostgreSQL database in order to retrieve data and display it on an HTML document using a view model.
+From this project, I gained experience handling HTTP requests using embedded Apache Tomcat servlet. Additionally, I learned how to integrate a PostgreSQL database in order to retrieve data and display it on an HTML document using a view model.
 
 ### Built With
 
@@ -57,6 +57,8 @@ From this project, I gained experience working with the embedded Apache Tomcat s
 - [![PostgreSQL][Postgres-shield]][Postgres-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
@@ -79,6 +81,8 @@ the result.
 You can fetch a user from the database using `/hello?user={id}`. The server response to the HTTP request with an HTML document saying hello to the selected user.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
 
 ## Contact
 
