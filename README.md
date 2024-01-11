@@ -65,6 +65,8 @@ the result.
 
 You can fetch a user from the database using `/hello?user={id}`. The server response to the HTTP request with an HTML document saying hello to the selected user.
 
+![Data fetch screenshot][data-screenshot]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -90,6 +92,7 @@ Portfolio Site: [https://kerm.dev](https://kerm.dev)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [site-screenshot]: media/uiScreenshot.png
+[data-screenshot]: media/dataScreenshot.png
 [Spring-shield]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io/
 [Thymeleaf-shield]: https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white
