@@ -25,21 +25,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -48,7 +33,7 @@
 
 A Java Spring Framework web app demo project. 
 
-From this project, I gained experience handling HTTP requests using embedded Apache Tomcat servlet. Additionally, I learned how to integrate a PostgreSQL database in order to retrieve data and display it on an HTML document using a view model.
+From this project, I gained experience handling HTTP requests using an embedded Apache Tomcat servlet. Additionally, I learned how to integrate a PostgreSQL database in order to retrieve data and display it on an HTML document using a view model.
 
 ### Built With
 
@@ -110,4 +95,4 @@ Portfolio Site: [https://kerm.dev](https://kerm.dev)
 [Thymeleaf-shield]: https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white
 [Thymeleaf-url]: https://www.thymeleaf.org/
 [Postgres-shield]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[Postgres-url]: [https://www.netlify.com/](https://www.postgresql.org/)https://www.postgresql.org/
+[Postgres-url]: https://www.postgresql.org/
